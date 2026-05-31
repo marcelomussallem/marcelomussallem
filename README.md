@@ -61,15 +61,6 @@ Hoje tenho a liberdade de criar o que preciso, sem depender de ferramentas pront
 <br>
 <br>
 
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelomussallem&theme=tokyonight&utcOffset=-3" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelomussallem&theme=tokyonight" />
-<br>
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelomussallem&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelomussallem&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelomussallem&theme=tokyonight" />
-
 <br>
 <br>
 
